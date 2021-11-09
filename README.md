@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Nyoutaaa&label=Profile%20views&color=0e75b6&style=flat" alt="Nyoutaaa" /> </p>
 
-- I live in a city in the inland of São Paulo, and I am currently 16 years old
+- I live in a city in the inland of São Paulo, and I am currently 17 years old
  
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Nyoutaaa&show_icons=true&locale=en" alt="Nyoutaaa" /></p>
 
